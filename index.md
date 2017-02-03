@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Active patient respondschemas regarding healthcare consultations
 
 You can use the [editor on GitHub](https://github.com/KaHole/group3-project-progress/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
