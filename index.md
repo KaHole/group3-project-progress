@@ -1,6 +1,6 @@
-## Active patient respondschemas regarding healthcare consultations
+## Active patient respond schemas for healthcare consultations
 
-You can use the [editor on GitHub](https://github.com/KaHole/group3-project-progress/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to our webpage where you can follow the ongoing work with out bachelor project regaring active patient respondschemas for healthcare consultations. The members of the project are Kristian Andersen Hole and Jakob Halsteinslid Manne. We are both final year students at the Western Norway University of Applied Sciences with interests regarding digital healthcare. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The project is an own idea that has been developed at the Digital Healthcare lab at our University. The work will be integrated with AVANS healthcare systems where the center for rehabilitation at Haugland will contribute to testing and providing feedback regarding the functionallity of the applications. 
 
