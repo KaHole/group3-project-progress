@@ -4,6 +4,7 @@ Here you can follow the ongoing work with our bachelor project regarding active 
 
 The project is an own idea that has been developed at the Digital Healthcare Lab at our university. The work will be integrated with AVANS healthcare systems. The center for rehabilitation at Haugland will contribute with testing and providing feedback regarding the functionallity of the application. 
 
+***
 
 ## Day 0 - Initial Schetches
 
