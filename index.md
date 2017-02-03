@@ -6,6 +6,7 @@ The project is an own idea that has been developed at the Digital Healthcare Lab
 
 * * *
 
-# Day 0 - Initial Schetches
+### Day 0 - Initial Schetches
 
 k
+03.02.2017
