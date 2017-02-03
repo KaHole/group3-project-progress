@@ -7,4 +7,6 @@ The project is an own idea that has been developed at the Digital Healthcare Lab
 * * *
 ## Day 0 - Initial Schetches
 
+![alt tag](https://github.com/KaHole/group3-project-progress/blob/master/InitialScetches.jpg)
+
 03.02.2017
