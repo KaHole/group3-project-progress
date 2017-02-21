@@ -11,7 +11,7 @@ The project is a self produced idea that has been developed at the Digital Healt
 
 ![alt tag](https://github.com/KaHole/group3-project-progress/blob/master/jaobboat.jpg?raw=true)
 
-<img src="https://github.com/KaHole/group3-project-progress/blob/master/jaobboat.jpg?raw=true" align="left" height="400" width="auto" >
+<img src="https://github.com/KaHole/group3-project-progress/blob/master/jaobboat.jpg?raw=true" height="400" width="auto" >
 
 Today we went on a trip with our two bachelor supervisors to Haugland Rehabilitation centre where we had a productive meeting. We took the fery in the morning (08.00) and arrived at Askvoll some hours later where we met the CEO of Avans. After a quick drive we arrived at Haugland where we got a guided tour and ate lunch. Then followed a three hour meeting where we discussed the project and how Haugland could participate in it. We dicided that they would provide us with surveys/forms and other functionalities that they want to be included in the program. After the meeting we ate dinner and tok the fery home and arrived in Bergen in the evening (20.45). The next task for us is to schedule a meeting with the developer at Avans in order to begin developing the program. 
 
