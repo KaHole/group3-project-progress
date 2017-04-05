@@ -6,11 +6,20 @@ The project is a self produced idea that has been developed at the Digital Healt
 
 ***
 
+## 29.03.17 - Prototype
+
+We have now developed a functioning prototype for the HS-Viewer, which is the component that are to display the schemas. Our program will now take an XML schema from the testserver and display it as a webpage schema that the user can interact with. We have added these functionalities: Short text, long text, dependant questions, radio buttons, checkboxes and dropdown and pain chart drawing. In the future we will add more functionalities. When the user has submitted his/hers response the webpage will output XML with the response that can be stored in an external storage (Avans healthcare journal) for instance. We have also worked on our pre - project report. 
+
+Here is a link to the prototype: https://kahole.github.io/hs-viewer/
+
+
+
 ## 15.03.17 - Development progress 
 
 In the last couple of weeks we have been developing the structure of the schemas by experimenting with different XML sctructures. We have also had several meetings with the development team at Avans as well as our superviser at HVL. We have bagan writing our pre project report that we also are going to present for our class.
 
 The project now consists of three seperate projects that communicate with each other; HS-Designer - HS-TestServer - HS-Viewer. 
+Here is a picture of how a radiobutton question is defined in XML. 
 
 <img src="https://github.com/KaHole/group3-project-progress/blob/master/XML schema.jpg?raw=true" height="400" width="auto" >
 
