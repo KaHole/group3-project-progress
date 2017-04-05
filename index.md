@@ -6,6 +6,13 @@ The project is a self produced idea that has been developed at the Digital Healt
 
 ***
 
+## 15.03.17 - Development progress 
+
+In the last couple of weeks we have been developing the structure of the schemas by experimenting with different XML sctructures. We have also had several meetings with the development team at Avans as well as our superviser at HVL. We have bagan writing our pre project report that we also are going to present for our class.
+
+The project now consists of three seperate projects that communicate with each other; HS-Designer - HS-TestServer - HS-Viewer. 
+
+<img src="https://github.com/KaHole/group3-project-progress/blob/master/XML schema.jpg?raw=true" height="400" width="auto" >
 
 ## 17.02.17 - Meeting with Avans at the Haugland Rehabilitation Centre
 
