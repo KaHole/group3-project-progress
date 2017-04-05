@@ -10,7 +10,7 @@ The project is a self produced idea that has been developed at the Digital Healt
 
 We have now developed a functioning prototype for the HS-Viewer, which is the component that are to display the schemas. Our program will now take an XML schema from the testserver and display it as a webpage schema that the user can interact with. We have added these functionalities: Short text, long text, dependant questions, radio buttons, checkboxes and dropdown and pain chart drawing. In the future we will add more functionalities. When the user has submitted his/hers response the webpage will output XML with the response that can be stored in an external storage (Avans healthcare journal) for instance. We have also worked on our pre - project report. 
 
-Here is a link to the prototype: <a href ="https://kahole.github.io/hs-viewer/">
+Here is a link to the prototype: <https://kahole.github.io/hs-viewer/>
 
 
 
