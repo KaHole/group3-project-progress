@@ -6,6 +6,39 @@ The project is a self produced idea that has been developed at the Digital Healt
 
 ***
 
+## 14.05.17 Additional changes 
+
+As the project is coming close to and end we have mainly focused on creating some additional changes to HS-designer and HS-Viewer. These changes include: 
+- Internationalization for text in both norwegian and english
+- Session storage in the HS - Viewer so that when a user refreshes the webpage the answers will still appear. 
+- We have added mandatory questions functionality, so that each questions registered with this functionality will have to be answered before a submission of the schema can be done. 
+
+## 08.05.17 HS-Designer Work
+
+We are now finished creating the visual representaton of the dependancy in the HS-Designer. There are only some questions that give dependancy "functionality" though, but we are statisfied with the result. Every question can be dependant of one of more quetions. 
+
+<img src="https://github.com/KaHole/group3-project-progress/blob/master/dependant.png?raw=true" height="400" width="auto" >
+
+## 01.05.17 New Questions
+
+We have now added some new questions to the Hs Designer. We have added a date question where one can register a valid date. In the HS-designer we have also implemented the drawbox question, but there are some work do be done her. We have also created the LinearScale question type where one selects a radiobutton in a range 0-10 where there is a start text and end text before and after the last radiobutton. There where some work to be done here, because we also had to create the XML model for the question and create the visual representation of the LinearScale question in the HS - Viewer. 
+
+## 25.04.17 Prototype HS-Designer. 
+
+We thought that it would be nice to see how the HS-Designer project is looking visually. 
+When clicking the pluss button a new question will appear. One can also change the background color of the schema. In addition one can change the title and add a description for the project. 
+
+<img src="https://github.com/KaHole/group3-project-progress/blob/master/schema.png?raw=true" height="400" width="auto" >
+
+
+## 20.04.17 - Dependency functionality 
+
+In the last week we have mainly focused on developing the Dependancy funtionality. This has been a challenging task since we had to change the XML model as the last dependancy XML model did not fit our needs. We have also started to create the dependancy functionality in the HS-designer, but we are not quite sure how we are going to present it visually yet. 
+
+## 12.04.17 - Schema Designer Progress
+
+After we finished developing the prototype for the HS-Viwer we started to create the prototype for the HS-Designer. This was a bit more challenging task for us since it requires more functions that the other components of the project. We have now created a basic schema where one can add questions which are the same that can be viwed in the HS-Viwer. The next task for us will be to develop more complex functions for the HS-Viwer such as the dependancy functionality. 
+
 ## 29.03.17 - Prototype
 
 We have now developed a functioning prototype for the HS-Viewer, which is the component that are to display the schemas. Our program will now take an XML schema from the testserver and display it as a webpage schema that the user can interact with. We have added these functionalities: Short text, long text, dependant questions, radio buttons, checkboxes and dropdown and pain chart drawing. In the future we will add more functionalities. When the user has submitted his/hers response the webpage will output XML with the response that can be stored in an external storage (Avans healthcare journal) for instance. We have also worked on our pre - project report. 
