@@ -42,14 +42,14 @@ When clicking the pluss button a new question will appear. One can also change t
 
 ## 20.04.17 - Dependency functionality 
 
-In the last week we have mainly focused on developing the Dependancy funtionality. This has been a challenging task since we had to change the XML model as the last dependancy XML model did not fit our needs. We have also started to create the dependancy functionality in the HS-designer, but we are not quite sure how we are going to present it visually yet. 
+In this week we have mainly focused on developing the Dependancy funtionality. This has been a challenging task since we had to change the XML model as the last dependancy XML model did not fit our needs. We have also started to create the dependancy functionality in the HS-designer, but we are not quite sure how we are going to present it visually yet. 
 
 In addition to the "normal dependancy" we have also created an external dependancy value. This value is located at the testserver and when a question with this dependancy is displayed in the HS-Viewer, it will lookup the value at the testserver. 
 
 
-## 12.04.17 - Schema Designer Progress
+## 09.04.17 - Schema Designer Progress
 
-After we finished developing the prototype for the HS-Viwer we started to create the prototype for the HS-Designer. This was a bit more challenging task for us since it requires more functions that the other components of the project. We have now created a basic schema where one can add questions which are the same that can be viwed in the HS-Viwer. The next task for us will be to develop more complex functions for the HS-Designer such as the dependancy functionality. 
+After we finished developing the prototype for the HS-Viwer we started to create the prototype for the HS-Designer. This was a bit more challenging task for us since it requires more functions that the other components of the project. We have now created a basic schema where one can add questions which are the same that can be viwed in the HS-Viwer. The next task for us will be to develop more complex functions for the HS-Designer such as the dependancy functionality. We are not planning to work that much in the Easter. 
 
 ## 29.03.17 - Prototype
 
