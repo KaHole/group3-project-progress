@@ -14,6 +14,8 @@ Although we have focused on this while developing the project there where still 
 
 In the last week we have mainly been focusing on writing the draft of the report. This requires a lot of work, so we doubt if we will be able to do any major changes to the project. There are still a few things that remain, but hopefully we will be able to fix them in the time left. 
 
+
+
 ## 14.05.17 Additional changes 
 
 As the project is coming close to and end we have mainly focused on creating some additional changes to HS-designer and HS-Viewer. These changes include: 
@@ -27,6 +29,10 @@ As the project is coming close to and end we have mainly focused on creating som
 We are now finished creating the visual representaton of the dependancy in the HS-Designer. There are only some questions that give dependancy "functionality" though, but we are statisfied with the result. Every question can be dependant of one of more quetions. 
 
 <img src="https://github.com/KaHole/group3-project-progress/blob/master/dependant.png?raw=true" height="400" width="auto" >
+
+## 05.05.17 Testing 
+
+Although we are writing tests as we program, we have started to create intergration tests for the whole project. These tests are written in phantomjs and will test that each of the components, HS-Designer, HS-server and HS - Viewer will work well together. The tests are not done as we need to get a better understanding of how PhantomJS works. 
 
 ## 01.05.17 New Questions
 
