@@ -6,6 +6,10 @@ The project is a self produced idea that has been developed at the Digital Healt
 
 ***
 
+## 28.05.17 Final Result
+
+In the following week we will publish the result of the project as our deadline for submission is on the 6th of June. We aim to publish screenshots of the working prototypes. We can say that we are satisfied with our results. 
+
 ## 24.05.17 Mobile Version
 
 Although we have focused on this while developing the project there where still some glitches on the HS-Viewer project that had to be fixed so that it can be viewed on smaller screen sizes. In particular we had to fix the LinearScale. 
