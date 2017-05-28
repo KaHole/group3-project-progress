@@ -6,12 +6,21 @@ The project is a self produced idea that has been developed at the Digital Healt
 
 ***
 
+## 24.05.17 Mobile Version
+
+Although we have focused on this while developing the project there where still some glitches on the HS-Viewer project that had to be fixed so that it can be viewed on smaller screen sizes. In particular we had to fix the LinearScale. 
+
+## 21.05.17 Writing 
+
+In the last week we have mainly been focusing on writing the draft of the report. This requires a lot of work, so we doubt if we will be able to do any major changes to the project. There are still a few things that remain, but hopefully we will be able to fix them in the time left. 
+
 ## 14.05.17 Additional changes 
 
 As the project is coming close to and end we have mainly focused on creating some additional changes to HS-designer and HS-Viewer. These changes include: 
 - Internationalization for text in both norwegian and english
 - Session storage in the HS - Viewer so that when a user refreshes the webpage the answers will still appear. 
 - We have added mandatory questions functionality, so that each questions registered with this functionality will have to be answered before a submission of the schema can be done. 
+- In the HS-Designer one can upload a Logo to the schema. 
 
 ## 08.05.17 HS-Designer Work
 
@@ -35,9 +44,12 @@ When clicking the pluss button a new question will appear. One can also change t
 
 In the last week we have mainly focused on developing the Dependancy funtionality. This has been a challenging task since we had to change the XML model as the last dependancy XML model did not fit our needs. We have also started to create the dependancy functionality in the HS-designer, but we are not quite sure how we are going to present it visually yet. 
 
+In addition to the "normal dependancy" we have also created an external dependancy value. This value is located at the testserver and when a question with this dependancy is displayed in the HS-Viewer, it will lookup the value at the testserver. 
+
+
 ## 12.04.17 - Schema Designer Progress
 
-After we finished developing the prototype for the HS-Viwer we started to create the prototype for the HS-Designer. This was a bit more challenging task for us since it requires more functions that the other components of the project. We have now created a basic schema where one can add questions which are the same that can be viwed in the HS-Viwer. The next task for us will be to develop more complex functions for the HS-Viwer such as the dependancy functionality. 
+After we finished developing the prototype for the HS-Viwer we started to create the prototype for the HS-Designer. This was a bit more challenging task for us since it requires more functions that the other components of the project. We have now created a basic schema where one can add questions which are the same that can be viwed in the HS-Viwer. The next task for us will be to develop more complex functions for the HS-Designer such as the dependancy functionality. 
 
 ## 29.03.17 - Prototype
 
